@@ -1,0 +1,12 @@
+Nicholas,
+
+For whatever reason, the pull request is missing from this repository, so I'll give my feedback here. Ignore the ` symbol.
+
+For part 1, (1) a colon has to follow the function definition (2) all lines within the function need to be indented (3) `return True` should be double-indented because it is in an `if` statement in a function (5) there should be an `else` statement, not an `elif` statement (6) there should be a colon following the `else` statement (7) `return False` should be double-indented, because it is in an `else` statement in a function (8) the function needs to have 3 parameters: `a`, `b`, and `c` (9) you also need to compare `a` and `c` in your `if` statement.
+For part 2, define a new variable to store the celsius temperature and set it to `(f - 32) * (5/9)`. Then, return the variable.
+For part 3, simply replace all the `x!`s in the combination formula with `factorial(x)` (or whatever the input to the factorial is). So, you should return `factorial(n)/(factorial(r)*factorial(n-r))`.
+For part 4, set up an if/elif/else statement with an if/elif statement that compares a unique set of two sides and a third side and returns `False` if the sum of the two sides are less than or equal to the third side, and an `else` statement that returns `True` if none of the above were true.
+
+Note: if you believe that your homework was actually complete, email me.
+
+-Austin
